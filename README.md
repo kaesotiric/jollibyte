@@ -1,2 +1,2 @@
-# jollibyte
+# Jollibyte
 Cook delicious meals
