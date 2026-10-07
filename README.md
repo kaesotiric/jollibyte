@@ -6,7 +6,7 @@ Date: Fall 2026
 
 # Overview
 
-JolliByte is a timed, state transitioning game inspired by cooking fever and Jollibee. Cook delicious meals.
+JolliByte is a timed, state transitioning game inspired by cooking fever and Jollibee. Cook delicious meals from the Philippines.
 
 ## Domain Model
 ``` mermaid
